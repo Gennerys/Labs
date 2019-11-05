@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1C985CC5-3075-4BCC-95A5-2AAF1B60FB27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Core", "src\CleanArchitecture.Core\CleanArchitecture.Core.csproj", "{F0FEAD48-0D17-40DC-BCD2-5BF784BFF64C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Infrastructure", "src\CleanArchitecture.Infrastructure\CleanArchitecture.Infrastructure.csproj", "{81AD72C3-44D4-4E59-89D4-FC4352CC1D8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0FEAD48-0D17-40DC-BCD2-5BF784BFF64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0FEAD48-0D17-40DC-BCD2-5BF784BFF64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0FEAD48-0D17-40DC-BCD2-5BF784BFF64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0FEAD48-0D17-40DC-BCD2-5BF784BFF64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81AD72C3-44D4-4E59-89D4-FC4352CC1D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AD72C3-44D4-4E59-89D4-FC4352CC1D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AD72C3-44D4-4E59-89D4-FC4352CC1D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AD72C3-44D4-4E59-89D4-FC4352CC1D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F0FEAD48-0D17-40DC-BCD2-5BF784BFF64C} = {1C985CC5-3075-4BCC-95A5-2AAF1B60FB27}
+		{81AD72C3-44D4-4E59-89D4-FC4352CC1D8C} = {1C985CC5-3075-4BCC-95A5-2AAF1B60FB27}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B06516A-E996-4068-8B61-A05FA73543CE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\oleksandr.papirnyk\Desktop\JoJoMarket\CleanArchitecture.JoJoMarket\src\CleanArchitecture.Core\bin\Debug\netstandard2.0\CleanArchitecture.Core.deps.json
+C:\Users\oleksandr.papirnyk\Desktop\JoJoMarket\CleanArchitecture.JoJoMarket\src\CleanArchitecture.Core\bin\Debug\netstandard2.0\CleanArchitecture.Core.dll
+C:\Users\oleksandr.papirnyk\Desktop\JoJoMarket\CleanArchitecture.JoJoMarket\src\CleanArchitecture.Core\obj\Debug\netstandard2.0\CleanArchitecture.Core.csprojAssemblyReference.cache
+C:\Users\oleksandr.papirnyk\Desktop\JoJoMarket\CleanArchitecture.JoJoMarket\src\CleanArchitecture.Core\obj\Debug\netstandard2.0\CleanArchitecture.Core.AssemblyInfoInputs.cache
+C:\Users\oleksandr.papirnyk\Desktop\JoJoMarket\CleanArchitecture.JoJoMarket\src\CleanArchitecture.Core\obj\Debug\netstandard2.0\CleanArchitecture.Core.AssemblyInfo.cs

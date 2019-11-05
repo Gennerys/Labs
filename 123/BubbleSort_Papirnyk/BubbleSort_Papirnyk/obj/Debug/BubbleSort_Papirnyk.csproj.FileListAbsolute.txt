@@ -1,0 +1,6 @@
+C:\Users\oleksandr.papirnyk\Desktop\BubbleSort_Papirnyk\BubbleSort_Papirnyk\obj\Debug\BubbleSort_Papirnyk.csprojAssemblyReference.cache
+C:\Users\oleksandr.papirnyk\Desktop\BubbleSort_Papirnyk\BubbleSort_Papirnyk\bin\Debug\BubbleSort_Papirnyk.exe.config
+C:\Users\oleksandr.papirnyk\Desktop\BubbleSort_Papirnyk\BubbleSort_Papirnyk\bin\Debug\BubbleSort_Papirnyk.exe
+C:\Users\oleksandr.papirnyk\Desktop\BubbleSort_Papirnyk\BubbleSort_Papirnyk\bin\Debug\BubbleSort_Papirnyk.pdb
+C:\Users\oleksandr.papirnyk\Desktop\BubbleSort_Papirnyk\BubbleSort_Papirnyk\obj\Debug\BubbleSort_Papirnyk.exe
+C:\Users\oleksandr.papirnyk\Desktop\BubbleSort_Papirnyk\BubbleSort_Papirnyk\obj\Debug\BubbleSort_Papirnyk.pdb
